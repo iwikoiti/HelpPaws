@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HelpPaws</string>
+    <string name="client_name">Введите имя...</string>
+    <string name="client_phone">Введите номер телефона...</string>
+    <string name="submit_client">Подтвердить</string>
+    <string name="warning_for_empty_inputs">Заполните поля</string>
+
 </resources>
