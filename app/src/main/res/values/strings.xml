@@ -5,4 +5,6 @@
     <string name="submit_client">Подтвердить</string>
     <string name="warning_for_empty_inputs">Заполните поля</string>
 
+    <string name="task_name">Текст задачи...</string>
+
 </resources>
